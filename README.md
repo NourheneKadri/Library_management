@@ -23,3 +23,14 @@ Cette application de gestion de bibliothèque est conçue pour les bibliothécai
 - **Type d'Application** : Application de Bureau
 - **Technologies Utilisées** : : Java, Swing, XAMPP, MYSQL.
 - **Système d'Exploitation Supporté** :Windows
+## Les interfaces : 
+![Screenshot 2024-10-09 175019](https://github.com/user-attachments/assets/5dc3619a-e4ac-43dc-a73d-fc4ca640e774)
+![Screenshot 2024-10-09 175026](https://github.com/user-attachments/assets/9b2cf048-4b72-4d82-99e3-67ae53aea459)
+![Screenshot 2024-10-09 175034](https://github.com/user-attachments/assets/76b86bb5-e2ca-4c61-bea4-e337dcb26973)
+
+
+
+![Screenshot 2024-10-09 175053](https://github.com/user-attachments/assets/852392a3-bdc6-42de-905b-d4624bc7a5ef)
+
+
+
